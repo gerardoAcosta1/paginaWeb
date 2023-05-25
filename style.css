@@ -93,6 +93,7 @@ a,#menu{
 }
 a,#menu:hover{
     color: red;
+    font-size: 19px;
 }
 #video{
     width: 500px;
