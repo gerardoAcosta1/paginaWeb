@@ -161,3 +161,7 @@ nav li:hover>ul{
     text-align: center;
     background-color: #141007;
 }
+::selection{
+    background-color: #DAF7E2;
+    color: #000;
+}
